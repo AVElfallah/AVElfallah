@@ -1,25 +1,10 @@
-<h1 align="center" class="fade-in">Hi 👋, I'm Abdulrhman</h1>
+<h1 align="center">Hi 👋, I'm Abdulrhman</h1>
 <h3 align="center">A Computer Science Graduate and Flutter Developer</h3>
 
 <div style="position: relative; width: 100%; height: 100vh;">
     <img src="https://www.codewars.com/users/AVElfallah/badges/large" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); max-width: 100%; height: auto;">
 </div>
 
-<style>
-@keyframes fadeIn {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
-}
-.fade-in {
-  animation: fadeIn 2s ease-in-out;
-}
-</style>
-
-<div>
 - 🌱 I’m currently learning **Flutter and Android**.
 - 🧠 I am passionate about **clean code**, **clean architecture**, **SOLID principles**, and **software engineering**.
 - 🚀 I consider myself a **fast learner**, always seeking to improve my skills and knowledge.
@@ -27,7 +12,6 @@
 - 🎖️ I am currently doing my **national military service**, which I will complete on **March 1, 2025**.
 - 👨‍💻 All of my projects are available at [my GitHub](https://github.com/AVElfallah?tab=repositories).
 - 📫 You can reach me at **abdohegag@gmail.com**.
-</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
