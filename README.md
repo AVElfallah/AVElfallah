@@ -2,7 +2,7 @@
 <h3 align="center">A computer science student and flutter developer</h3>
 <link rel="stylesheet" href="styles.css">
 <div style =" position: relative;width: 100%;height: 100vh;">
-<image src="https://www.codewars.com/users/AVElfallah/badges/large" style="position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);max-width: 100%;height: auto;">
+<img src="https://www.codewars.com/users/AVElfallah/badges/large" style="position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);max-width: 100%;height: auto;">
 </div>
 
 - 🌱 I’m currently learning **flutter and android**
